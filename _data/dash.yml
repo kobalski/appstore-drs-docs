@@ -39,11 +39,6 @@ folders:
     hurl: https://developer.amazon.com/public/solutions/devices/dash-replenishment-service/docs/dash-teaser-page
     ref: dash-teaser-page
 
-  - title: DRS Teaser Page
-    jurl: /dash-teaser-page.html
-    hurl: https://developer.amazon.com/public/solutions/devices/dash-replenishment-service/docs/dash-teaser-page
-    ref: dash-teaser-page
-
   - title: Glossary
     jurl: /dash-glossary.html
     hurl: https://developer.amazon.com/public/solutions/devices/dash-replenishment-service/docs/dash-glossary

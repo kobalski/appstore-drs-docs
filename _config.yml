@@ -17,8 +17,8 @@ sidebars:
 feedback_email: devcomm@amazon.com
 port: 4000
 highlighter: rouge
-github_log_issue_url:
-github_editme_path: https://github.com/<organization>/<repo name>/blob/<branch name>
+# github_log_issue_url:
+github_editme_path: https://github.com/amzn/appstore-drs-docs/blob/github-docs
 exclude:
   - pdf/
   - Config
